@@ -17,7 +17,7 @@ This repository contains a list of numbers and their prime factors *(100 = 2 * 2
 
 ## some facts
 
-Within my list of the numbers up to 100 million, the number with the most factors is of course: 9,699,690 (2<sup>26</sup>); And the number with the most unique factors is: 9,699,690 (2 * 3 * 5 * 7 * 11 * 13 * 17 * 19). In total there are 5,761,461 numbers with only one prime factor (prime numbers) up to 100 million.
+Within my list of the numbers up to 100 million, the number with the most factors is of course: 9,699,690 (2<sup>26</sup>); And the number with the most unique factors is: 9,699,690 (2 * 3 * 5 * 7 * 11 * 13 * 17 * 19). There are 5,761,461 numbers with only one prime factor -> prime numbers.
 
 ## Mertens Function
 
