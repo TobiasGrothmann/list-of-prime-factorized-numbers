@@ -22,7 +22,7 @@ Within my list of the numbers up to 100 million, the number with the most factor
 ## Mertens Function
 
 * start with 0
-* go through all the numbers:
+* for every number:
   * if they have a duplicate prime factor -> do nothing
   * if they have an even number of prime factors -> add 1
   * if they have an odd number of prime factors -> subtract 1
